@@ -28,6 +28,9 @@ This tutorial demonstrates how to:
 + [Create Oracle Developer Cloud Service project for Loyalty Management JEE application](01.md)
 + Installed VirtulBox, Copied VM image from instructor and started VM. [TBD]
 
+### Accomplishment ###
++ Need to add description
+
 ### Steps ###
 
 #### Connect and Obtain Source Code from Developer Cloud Service ####
